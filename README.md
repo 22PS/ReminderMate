@@ -11,6 +11,9 @@ This is a web application designed to help students manage job placement emails 
 - Sends reminder emails two hours before deadlines.
 - Cron jobs to automatically fetch emails and send reminders.
 
+![image](https://github.com/user-attachments/assets/b59c0f9c-4cb8-40d0-86d2-fa5699e448de)
+
+
 ## Tech Stack
 
 - **Frontend:** React, Tailwind CSS
