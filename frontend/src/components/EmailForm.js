@@ -9,9 +9,9 @@ const EmailForm = () => {
     <div className="my-4">
       <button
         onClick={fetchGmailEmails}
-        className="bg-blue-500 text-white px-4 py-2"
+        className="bg-blue-500 text-white px-6 py-2 rounded mt-8"
       >
-        Fetch Emails from Gmail
+        Click for new reminders !!
       </button>
     </div>
   );
